@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<fieldMapping>
+    <documentType name="documentFile">
+        <category name="文档类型" file="Type"></category>
+        <category name="项目编号" file="ID"></category>
+        <category name="项目名称" file="Project"></category>
+        <category name="文档ID" file="File ID"></category>
+        <category name="文档名称" file="Summary"></category>
+        <category name="状态" file="State"></category>
+        <category name="版本" file="Doc Version"></category>
+        <category name="创建人" file="Created By Name"></category>
+        <category name="创建时间" file="Created Date"></category>
+        <category name="创建人工号" file="Created By"></category>
+        <category name="修改人" file="Modified By Name"></category>
+        <category name="修改人工号" file="Modified By"></category>
+        <category name="修改时间" file="Modified Date"></category>
+        <category name="访问链接" file="Url"></category>
+    </documentType>
+</fieldMapping>
